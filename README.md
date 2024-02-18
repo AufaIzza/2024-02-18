@@ -1,5 +1,5 @@
 # Belajar Git
 
-## Topik Awal Git
+belajar git bersama hari senin
 
-topik ini adalah hebat
+## Topik Awal Git
